@@ -1,0 +1,43 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-image: url("Money.jpeg");
+  height: 500px;
+  width: 600px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  border: red 4px solid;
+}
+
+#items
+{
+  padding: 20px;
+  color: green;
+  border: red 4px solid;
+  background-color: white;
+  height: 380px;
+  width: 480px;
+  position: absolute;
+  left: 40px;
+  top: 40px;
+}
+
+button
+{
+  height: 40px;
+  width: 50px;
+}
+
+#guy
+{
+  display: none;
+}
+
+#ssn
+{
+  display: none;
+}
+#button3
+{
+  display: none;
+}
