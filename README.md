@@ -17,4 +17,6 @@
 
 # Notes
 
-![](https://xaoiui.neocities.org/Gstar.gif) Make sure you rename the money image to "Money.jpeg"
+![](https://xaoiui.neocities.org/Gstar.gif) Make sure you rename IMG_3210.jpeg to "Money.jpeg"
+
+![](https://xaoiui.neocities.org/Gstar.gif) Make sure you rename IMG_3204.jpeg to "Thumbsup.jpeg"
