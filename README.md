@@ -19,4 +19,4 @@
 
 ![](https://xaoiui.neocities.org/Gstar.gif) Make sure you rename IMG_3210.jpeg to "Money.jpeg"
 
-![](https://xaoiui.neocities.org/Gstar.gif) Make sure you rename IMG_3204.jpeg to "Thumbsup.jpeg"
+![](https://xaoiui.neocities.org/Gstar.gif) Make sure you rename IMG_3204.png to "Thumbsup.png"
