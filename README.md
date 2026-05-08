@@ -12,3 +12,9 @@
 ![](https://xaoiui.neocities.org/Gstar.gif) If yes: prompts them for their ssn and shows a thumbs up and thank you when it is entered
 
 ![](https://xaoiui.neocities.org/Gstar.gif) If no: it says to leave and closes the tab
+
+---
+
+# Notes
+
+![](https://xaoiui.neocities.org/Gstar.gif) Make sure you rename the money image to "Money.jpeg"
